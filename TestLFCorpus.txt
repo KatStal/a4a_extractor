@@ -1,0 +1,34 @@
+ID;Sentence;Label
+1;"We must help others.";dir
+2;"Osama bin Laden should have been captured.";ndir
+3;"It must feel so lonely.";ndir
+4;"The request will be processed.";ndir
+5;"They requested peace.";dir
+6;"He called him on the phone.";ndir
+7;"He called for peace talks.";dir
+8;"They need this book.";ndir
+9;"They need to initiate peace talks.";dir
+10;"They want us to go.";dir
+11;"He will distribute material needed by our movement.";ndir
+12;"The question is whether we want to risk a nation of Misratas.";ndir
+13;"The time to stop killing is now.";dir
+14;"It takes long time to do it.";ndir
+15;"Fight them!";dir
+16;"He commanded: "Fight them!";dir
+17;"The war is unacceptable.";dir
+18;"They see the war as unacceptable.";dir
+19;"They won't stand it anymore.";dir
+20;"Peace is a solution.";dir
+21;"He answered the phone.";ndir
+22;"Peace is considered as an answer.";dir
+23;"Peace is an answer.";dir
+24;"They are to blame.";dir
+25;"It is hard to say whether this must be done.";ndir
+26;"Don't go there!";dir
+27;"They said:'Let us do it.'";dir
+28;"Help me with this task, please.";dir
+29;"They can't tolerate it.";dir
+30;"We are supposed to help them.";dir
+31;"They gave a promise to eradicate poverty.";dir
+32;"They were pleased by our visit.";ndir
+33;"Let's sing along.";dir
